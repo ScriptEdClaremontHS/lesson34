@@ -3,7 +3,7 @@
 ### Exercises
 
 1. [Exercise 1: How long is this array?](http://jsbin.com/rujujoqape/3/edit?js,console)
-2. [Exercise 2: Create an array!](http://jsbin.com/fucagakexe/2/edit?js,console)
+2. [Exercise 2: Create an array!](http://jsbin.com/juhuhudaqu/2/edit?js,console)
 3. [Exercise 3: Fun with indices!](http://jsbin.com/kelibeguji/2/edit?js,console)
 4. [Exercise 4: Reverse this array!](http://jsbin.com/pusebivipo/2/edit?js,console)
 
